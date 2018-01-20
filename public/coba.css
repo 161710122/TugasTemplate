@@ -1,0 +1,6 @@
+#menu a {position: fixed;left: -100px;transition: 0.3s;padding: 15px;width: 100px;text-decoration: none;font-size: 20px;color: white;border-radius: 0 5px 5px 0;}
+#menu a:hover {left: 0;}
+#home {top: 20px;background-color: #274F8F;}
+#about {top: 80px;background-color: orange;}
+#gallery {top: 140px;background-color: gray;}
+#contact {top: 200px;background-color: red;}
